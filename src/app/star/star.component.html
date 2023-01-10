@@ -1,0 +1,15 @@
+<!-- [style.width.px]="cropWidth" -->
+<div
+  class="crop"
+  [ngStyle]="{ 'width.px': cropWidth }"
+  [title]="rating"
+  (click)="onClick()"
+>
+  <div [style.width.px]="cropWidth" class="star-wrapper">
+    <span class="fa fa-star"></span>
+    <span class="fa fa-star"></span>
+    <span class="fa fa-star"></span>
+    <span class="fa fa-star"></span>
+    <span class="fa fa-star"></span>
+  </div>
+</div>

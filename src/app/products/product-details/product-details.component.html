@@ -1,0 +1,51 @@
+<div class="container my-5">
+  <div class="card details-card p-0">
+    <div class="row">
+      <div class="col-md-4 col-sm-12">
+        <img class="img" [src]="products.imageUrl" />
+      </div>
+      <div class="col-md-6 col-sm-12 description-container p-5">
+        <div class="main-description">
+          <h3>{{ products.productName }}</h3>
+
+          <hr />
+          <p class="product-price">{{ products.price | currency : "INR" }}</p>
+          <form class="add-inputs" method="post">
+            <button
+              name="add_to_cart"
+              type="submit"
+              class="btn btn-primary btn-lg"
+              (click)="addToCart(products)"
+            >
+              Add to cart
+            </button>
+            <button
+              name="add_to_cart"
+              type="submit"
+              class="btn btn-primary btn-lg mx-3"
+              (click)="onBack()"
+            >
+              Go back
+            </button>
+          </form>
+
+          <div style="clear: both"></div>
+
+          <hr />
+
+          <p class="product-title mt-4 mb-1">About this product</p>
+          <p class="product-description mb-4">
+            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quis
+            assumenda voluptatem tempore dolor quod. Expedita, id, minus
+            similique dolor sed adipisci aliquam natus amet doloremque delectus
+            cupiditate? Sint, quasi, ad necessitatibus omnis quaerat tenetur
+            corporis porro aut, natus ex ab id vel odit veniam fugiat temporibus
+            aperiam quia rem minima!
+          </p>
+
+          <hr />
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

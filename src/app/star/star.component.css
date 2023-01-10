@@ -1,0 +1,9 @@
+.crop {
+  cursor: pointer;
+}
+.star-wrapper {
+  overflow: hidden;
+  /* background: red; */
+  display: flex;
+  flex-wrap: nowrap;
+}

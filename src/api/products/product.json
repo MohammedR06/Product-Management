@@ -1,0 +1,145 @@
+[
+  {
+    "productId": 1,
+    "productName": "Leaf Rake",
+    "productCode": "GDN-0011",
+    "releaseDate": "March 19, 2021",
+    "price": 19.0,
+    "starRating": 3.2,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTngcrud67CHz4ywX69ibevZnvRrlJ6p_sIap6TOgBboN2as7Cf0__u5Apm3foSTe7Akno&usqp=CAU",
+    "show": true,
+    "quantity": 0
+  },
+  {
+    "productId": 2,
+    "productName": "Garden Cart",
+    "productCode": "GDN-0023",
+    "releaseDate": "March 18, 2021",
+    "price": 32.0,
+    "starRating": 4.2,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTngcrud67CHz4ywX69ibevZnvRrlJ6p_sIap6TOgBboN2as7Cf0__u5Apm3foSTe7Akno&usqp=CAU",
+    "show": true,
+    "quantity": 0
+  },
+  {
+    "productId": 3,
+    "productName": "Hammer",
+    "productCode": "TBX-0048",
+    "releaseDate": "May 21, 2021",
+    "price": 8.0,
+    "starRating": 4.8,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTngcrud67CHz4ywX69ibevZnvRrlJ6p_sIap6TOgBboN2as7Cf0__u5Apm3foSTe7Akno&usqp=CAU",
+    "show": true,
+    "quantity": 0
+  },
+  {
+    "productId": 4,
+    "productName": "Saw",
+    "productCode": "TBX-0022",
+    "releaseDate": "May 15, 2021",
+    "price": 11.0,
+    "starRating": 3.7,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTngcrud67CHz4ywX69ibevZnvRrlJ6p_sIap6TOgBboN2as7Cf0__u5Apm3foSTe7Akno&usqp=CAU",
+    "show": true,
+    "quantity": 0
+  },
+  {
+    "productId": 5,
+    "productName": "Video Game Controller",
+    "productCode": "GMG-0042",
+    "releaseDate": "October 15, 2020",
+    "price": 35.0,
+    "starRating": 4.6,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTngcrud67CHz4ywX69ibevZnvRrlJ6p_sIap6TOgBboN2as7Cf0__u5Apm3foSTe7Akno&usqp=CAU",
+    "show": true,
+    "quantity": 0
+  },
+  {
+    "productId": 6,
+    "productName": "Video Game Controller1",
+    "productCode": "GMG-0042",
+    "releaseDate": "October 15, 2020",
+    "price": 35.0,
+    "starRating": 4.6,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTngcrud67CHz4ywX69ibevZnvRrlJ6p_sIap6TOgBboN2as7Cf0__u5Apm3foSTe7Akno&usqp=CAU",
+    "show": true,
+    "quantity": 0
+  },
+  {
+    "productId": 7,
+    "productName": "Video Game Controller2",
+    "productCode": "GMG-0042",
+    "releaseDate": "October 15, 2020",
+    "price": 35.0,
+    "starRating": 4.6,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTngcrud67CHz4ywX69ibevZnvRrlJ6p_sIap6TOgBboN2as7Cf0__u5Apm3foSTe7Akno&usqp=CAU",
+    "show": true,
+    "quantity": 0
+  },
+  {
+    "productId": 8,
+    "productName": "Video Game Controller3",
+    "productCode": "GMG-0042",
+    "releaseDate": "October 15, 2020",
+    "price": 35.0,
+    "starRating": 4.6,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTngcrud67CHz4ywX69ibevZnvRrlJ6p_sIap6TOgBboN2as7Cf0__u5Apm3foSTe7Akno&usqp=CAU",
+    "show": true,
+    "quantity": 0
+  },
+  {
+    "productId": 9,
+    "productName": "Video Game Controller4",
+    "productCode": "GMG-0042",
+    "releaseDate": "October 15, 2020",
+    "price": 35.0,
+    "starRating": 4.6,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTngcrud67CHz4ywX69ibevZnvRrlJ6p_sIap6TOgBboN2as7Cf0__u5Apm3foSTe7Akno&usqp=CAU",
+    "show": true,
+    "quantity": 0
+  },
+  {
+    "productId": 10,
+    "productName": "Video Game Controller5",
+    "productCode": "GMG-0042",
+    "releaseDate": "October 15, 2020",
+    "price": 35.0,
+    "starRating": 4.6,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTngcrud67CHz4ywX69ibevZnvRrlJ6p_sIap6TOgBboN2as7Cf0__u5Apm3foSTe7Akno&usqp=CAU",
+    "show": true,
+    "quantity": 0
+  },
+  {
+    "productId": 11,
+    "productName": "Video Game Controller6",
+    "productCode": "GMG-0042",
+    "releaseDate": "October 15, 2020",
+    "price": 35.0,
+    "starRating": 4.6,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTngcrud67CHz4ywX69ibevZnvRrlJ6p_sIap6TOgBboN2as7Cf0__u5Apm3foSTe7Akno&usqp=CAU",
+    "show": true,
+    "quantity": 0
+  },
+  {
+    "productId": 12,
+    "productName": "Video Game Controller7",
+    "productCode": "GMG-0042",
+    "releaseDate": "October 15, 2020",
+    "price": 35.0,
+    "starRating": 4.6,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTngcrud67CHz4ywX69ibevZnvRrlJ6p_sIap6TOgBboN2as7Cf0__u5Apm3foSTe7Akno&usqp=CAU",
+    "show": true,
+    "quantity": 0
+  },
+  {
+    "productId": 13,
+    "productName": "Video Game Controller8",
+    "productCode": "GMG-0042",
+    "releaseDate": "October 15, 2020",
+    "price": 35.0,
+    "starRating": 4.6,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTngcrud67CHz4ywX69ibevZnvRrlJ6p_sIap6TOgBboN2as7Cf0__u5Apm3foSTe7Akno&usqp=CAU",
+    "show": true,
+    "quantity": 0
+  }
+]
